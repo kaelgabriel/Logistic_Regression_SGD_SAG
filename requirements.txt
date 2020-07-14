@@ -1,0 +1,14 @@
+# local package
+-e .
+
+# external requirements
+pytest
+sklearn
+pandas
+numpy
+matplotlib
+# click
+# Sphinx
+# coverage
+# awscli
+# flake8
