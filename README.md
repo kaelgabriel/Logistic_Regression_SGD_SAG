@@ -1,7 +1,18 @@
 A SAG and SGD implementation in Python for Logistic Regression
 ==============================
 
+Pratically copy-paste from:
+
+   https://github.com/hiroyuki-kasai/SGDLibrary/blob/f15f042ef4a409a075096a1e4b7462263cce520c/sgd_solver/sag.m
+
+   https://www.numerical-tours.com/python/
+
+   https://github.com/scikit-learn/scikit-learn/blob/0fb307bf39bbdacd6ed713c00724f8f871d60370/sklearn/linear_model/_sag_fast.pyx.tp
+
+   
+
 A short description of the project.
+
 
 Project Organization
 ------------
